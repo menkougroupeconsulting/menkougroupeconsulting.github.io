@@ -2324,3 +2324,41 @@ textarea.form-control {
 }
 
 /*  Blog  Area End */
+
+
+/* solution area */
+
+#SolutionCaroussel {
+  margin-bottom: 100px;
+}
+
+.carousel-inner, .carousel-item {
+  height: 400px;
+}
+
+.carousel-caption {
+  top: 30%;
+}
+
+.carousel-caption h5 {
+  color: white;
+  font-weight: bold;
+  font-size: 28px;
+  letter-spacing: 1px;
+  text-shadow: 0 0 20px black;
+}
+
+.carousel-caption p {
+  color: white;
+  font-size: 22px;
+  letter-spacing: .5px;
+  text-shadow: 0 0 12px black;
+}
+
+.carousel-indicators {
+  bottom: -50px;
+}
+
+.carousel-indicators li {
+  background-color: #7280ff;
+}
