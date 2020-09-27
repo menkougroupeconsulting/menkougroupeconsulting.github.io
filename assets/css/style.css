@@ -677,10 +677,10 @@ select:focus {
 }
 .side-menu .heading-area {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 12px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   padding-bottom: 22px;
-  margin-bottom: 30px;
+  margin-bottom: 5px;
   position: relative;
   overflow: hidden;
 }
@@ -722,7 +722,7 @@ select:focus {
 }
 .side-menu #mainmenu-area li {
   padding: 0px 15px;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 .side-menu #mainmenu-area li a {
   color: #333;
@@ -2333,7 +2333,7 @@ textarea.form-control {
 }
 
 .carousel-inner, .carousel-item {
-  height: 400px;
+  height: 450px;
 }
 
 .carousel-item {
@@ -2343,7 +2343,14 @@ textarea.form-control {
 }
 
 .carousel-caption {
-  top: 30%;
+  top: 0;
+  background: #7280ff8c;
+  height: 100%;
+  left: inherit;
+  right: 0;
+  padding: 20px;
+  width: 40%;
+  padding-top: 10%;
 }
 
 .carousel-caption h5 {
@@ -2370,15 +2377,42 @@ textarea.form-control {
 }
 
 .carousel-item.product-one {
-  background-image: url(../images/agencias_2.jpg);
+  background-image: url(../images/p1.jpg);
+  background-position: top center;
 }
 
 .carousel-item.product-two {
-  background-image: url(../images/MJU_webb.jpg);
+  background-position: top center;
+  background-image: url(../images/p2.jpg);
 }
 
 .carousel-item.product-three {
-  background-image: url(../images/0dfef8a74a1c9791c4ccea202d46.jpg);
+  background-position: top center;
+  background-image: url(../images/p3.jpg);
+}
+
+.carousel-item.product-four {
+  background-image: url(../images/p4.jpg);
+
+}
+
+.product-four .carousel-caption h5 {
+  color: #7280ff;
+  text-shadow: none;
+}
+
+.product-four .carousel-caption p {
+  color: #7280ff;
+  text-shadow: none;
+}
+
+.carousel-item.product-five {
+  background-image: url(../images/p5.jpg);
+
+}
+
+.carousel-item.product-four .carousel-caption {
+  background: #ffffffd9;
 }
 
 .team-member {

@@ -71,7 +71,7 @@
   .carousel-caption p {
     font-size: 16px;
   }
-  
+
 }
 
 
@@ -85,6 +85,23 @@
   -webkit-box-flex: 100%;
   -ms-flex: 100%;
   flex: 100%;
+}
+
+.carousel-caption {
+  top: inherit;
+  height: 50%;
+  left: inherit;
+  width: 100%;
+  bottom: 0;
+  padding: 10px!important;
+}
+
+.carousel-caption .long-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+  width: 100%;
 }
 
 }
