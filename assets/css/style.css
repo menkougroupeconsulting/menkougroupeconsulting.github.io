@@ -318,7 +318,7 @@ select:focus {
 
 .section-heading {
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 90px;
   justify-content: space-between;
 }
 .section-heading .title {
@@ -345,7 +345,7 @@ select:focus {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  font-size: 85px;
+  font-size: 65px;
   z-index: -1;
   opacity: 0.07;
 }
@@ -1386,10 +1386,10 @@ select:focus {
 /*Portfolio Area End */
 /* Testimonial Start */
 .testimonial {
-  padding: 100px 0px 0px;
+  padding: 50px 0px 0px;
 }
 .testimonial .section-heading {
-  margin-bottom: 36px;
+  margin-bottom: 90px;
 }
 .testimonial .testimonial-slider .slider-item {
   padding: 15px;
@@ -2483,3 +2483,14 @@ textarea.form-control {
   -o-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
+
+.team-member figcaption p {
+  font-size: 16px;
+  color: white!important;
+}
+
+
+.co-workers {
+  margin-top: 80px;
+}
+
