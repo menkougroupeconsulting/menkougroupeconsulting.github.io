@@ -2545,3 +2545,21 @@ textarea.form-control {
   margin-top: 80px;
 }
 
+.slider-item {
+  margin-bottom: 20px;
+}
+
+.client-text-wrapper {
+  padding-top: 45px;
+}
+
+p.client-title {
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 0;
+}
+
+.client-text {
+  font-style: italic;
+  letter-spacing: .5px;
+}
