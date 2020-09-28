@@ -1702,8 +1702,25 @@ textarea.form-control {
 /* Contact Area End */
 /*Portfolio Detagils Area Start */
 .portfolio-details {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.ongoing-page-img img {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+.ongoing-page-text strong {
+  color: #7280ff;
+  font-size: 35px;
+}
+
+.ongoing-page-text {
+  text-align: center;
+  width: 100%;
+  margin: 10px;
 }
 
 .portfolio-details .owl-nav .owl-next {

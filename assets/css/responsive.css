@@ -58,7 +58,9 @@
 .carousel-inner, .carousel-item {
   height: 350px;
 }
-
+.ongoing-page-img img {
+  width: 75%;
+}
 
 }
 
