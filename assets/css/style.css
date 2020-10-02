@@ -264,8 +264,8 @@ select:focus {
 }
 
 .mybtn-bg {    
-  background: #e91e63;
-  border-color: #e91e63;
+  background: #7280ff;
+  border-color: #7280ff;
   color: #fff;
 }
 
@@ -274,7 +274,7 @@ select:focus {
 }
 
 .mybtn-bg:hover span {
-  color: #e91e63;
+  color: #7280ff;
 }
 
 .mybtn-light {
@@ -510,7 +510,7 @@ select:focus {
   text-align: center;
   border-radius: 50%;
   color: #fff;
-  background: #e91e63;
+  background: #7280ff;
   cursor: pointer;
   transform: rotate(-90deg);
   bottom: 30px;
@@ -703,7 +703,7 @@ select:focus {
   transform: rotate(-58deg);
   top: -135%;
   right: -80%;
-  background: #a33368;
+  background: #7280ff;
   z-index: -1;
 }
 .side-menu .heading-area img {
@@ -742,10 +742,10 @@ select:focus {
   left: 20px;
   top: 50%;
   transform: translateY(-50%);
-  color: #e91e63;
+  color: #7280ff;
 }
 .side-menu #mainmenu-area li.current a, .side-menu #mainmenu-area li:hover a {
-  color: #e91e63;
+  color: #7280ff;
 }
 .side-menu .copyright-text {
   position: absolute;
@@ -1286,10 +1286,10 @@ select:focus {
   transition: all 0.3s ease-in;
   color: #555;
   box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1);
-  border: 1px solid #e91e63;
+  border: 1px solid #7280ff;
 }
 .project-gallery .project-gallery-filter .project-gallery-menu .filter.active, .project-gallery .project-gallery-filter .project-gallery-menu .filter:hover {
-  background: #e91e63;
+  background: #7280ff;
   color: #fff;
 }
 .project-gallery .project-gallery-item {
