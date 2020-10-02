@@ -692,7 +692,7 @@ select:focus {
   transform: rotate(58deg);
   top: -135%;
   left: -80%;
-  background: #ffb736;
+  background: #7280ff;
   z-index: -1;
 }
 .side-menu .heading-area::before {
