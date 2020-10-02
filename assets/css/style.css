@@ -337,7 +337,7 @@ select:focus {
   display: none;
 }
 .section-heading .title .color {
-  color: #ffb736;
+  color: #7280ff;
 }
 .section-heading .title .bg-text {
   position: absolute;
@@ -835,8 +835,8 @@ select:focus {
   color: #fff !important;
 }
 .home-section .home-content .social-info ul li a:hover {
-  background: #feb636;
-  border: 1px solid #ffb736;
+  background: #7280ff;
+  border: 1px solid #7280ff;
 }
 .home-section .home-content .about-links {
   margin-top: 30px;
@@ -1678,7 +1678,7 @@ textarea.form-control {
   margin-bottom: 22px;
   font-weight: normal;
   box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1);
-  background: #ffb736;
+  background: #7280ff;
 }
 .single-info .info-icon i {
   color: #fff;
