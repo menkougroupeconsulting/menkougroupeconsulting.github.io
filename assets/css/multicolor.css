@@ -16,7 +16,7 @@
 .single-blog-details .content ul li p i,
 .side-menu-wrapper .menu-toogle-icon i
 {
-    color: #4285f4!important;
+    color: #e91e63!important;
 }
 .resume-wrapper .resume-box .education-list .single-education .year,
 .resume-wrapper .resume-box .education-list .single-education::before,
@@ -25,7 +25,7 @@
 .idgallery .slidPrv4.slick-arrow,
 .idgallery .slidNext4.slick-arrow
 {
-    background: #4285f4;
+    background: #e91e63;
 }
 .progress-bar,
 .resume-wrapper .resume-box .skill-list .single-skill .progress .progress-bar,
