@@ -710,7 +710,7 @@ select:focus {
   width: 130px;
   height: 130px;
   border-radius: 50%;
-  border: 5px solid #ffb736;
+  border: 5px solid #7280ff;
   box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.075);
 }
 .side-menu .heading-area .name {
@@ -797,7 +797,7 @@ select:focus {
   border-radius: 50%;
   object-fit: cover;
   display: inline-block;
-  border: 5px solid #ffb736;
+  border: 5px solid #7280ff;
   margin-bottom: 30px;
   box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1);
 }
